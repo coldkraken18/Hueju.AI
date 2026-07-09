@@ -1,0 +1,15 @@
+# Ignore the virtual environment folder
+.venv/
+venv/
+env/
+
+# Ignore environment variables (where we'll store our API keys)
+.env
+
+# Ignore OS-specific system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
