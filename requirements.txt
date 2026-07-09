@@ -1,0 +1,10 @@
+# Basic AI agent libraries
+langchain
+langchain-openai
+crewai
+
+# For handling file paths across Mac/Windows
+pathlib 
+
+# For loading your secret API keys safely
+python-dotenv
