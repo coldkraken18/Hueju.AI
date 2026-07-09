@@ -1,0 +1,2 @@
+(python3 main.py) Runs python on Unix based systems
+Need virtual environent to run AI agent locally as well as to store API keys privately
