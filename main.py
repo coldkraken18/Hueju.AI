@@ -1,4 +1,3 @@
-#python3 main.py
 import os 
 from pathlib import Path
 from dotenv import load_dotenv  # A tool that secretly reads your API keys from a private file
